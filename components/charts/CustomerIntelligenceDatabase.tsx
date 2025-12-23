@@ -30,7 +30,7 @@ interface CustomerData {
   customerNeedTiming: string
   issuesFacedEarlier: string
   otherKeyDetails: string
-  // CMI Insights (for Preposition 3)
+  // WMR Insights (for Preposition 3)
   customerBenchmarkingSummary: string
   additionalComments: string
 }
@@ -64,7 +64,7 @@ const sampleCustomerData: CustomerData[] = [
     customerNeedTiming: 'High volume Q1 and Q3, 5-day turnaround required',
     issuesFacedEarlier: 'Delays in complex asset valuations',
     otherKeyDetails: 'Requires RICS registered valuers',
-    // CMI Insights
+    // WMR Insights
     customerBenchmarkingSummary: 'High potential - Large lending portfolio',
     additionalComments: 'Looking to diversify valuation panel'
   },
@@ -95,7 +95,7 @@ const sampleCustomerData: CustomerData[] = [
     customerNeedTiming: 'Year-end valuations critical, ongoing transaction support',
     issuesFacedEarlier: 'Inconsistent methodology across regions',
     otherKeyDetails: 'Multi-jurisdiction portfolio coverage needed',
-    // CMI Insights
+    // WMR Insights
     customerBenchmarkingSummary: 'High potential - Expanding portfolio',
     additionalComments: 'Active in European expansion'
   },
@@ -126,7 +126,7 @@ const sampleCustomerData: CustomerData[] = [
     customerNeedTiming: 'Fiscal year-end March, regulatory compliance required',
     issuesFacedEarlier: 'Limited coverage for overseas assets',
     otherKeyDetails: 'Requires compliance with SGX listing rules',
-    // CMI Insights
+    // WMR Insights
     customerBenchmarkingSummary: 'Medium potential - Stable operations',
     additionalComments: 'May need regional coverage expansion'
   },
@@ -157,7 +157,7 @@ const sampleCustomerData: CustomerData[] = [
     customerNeedTiming: 'Project financing stages, investor reporting',
     issuesFacedEarlier: 'Slow turnaround on development appraisals',
     otherKeyDetails: 'Requires development appraisal expertise',
-    // CMI Insights
+    // WMR Insights
     customerBenchmarkingSummary: 'High potential - Active pipeline',
     additionalComments: 'Multiple projects in planning stage'
   },
@@ -188,7 +188,7 @@ const sampleCustomerData: CustomerData[] = [
     customerNeedTiming: 'Annual reporting cycle, lease negotiations',
     issuesFacedEarlier: 'None reported',
     otherKeyDetails: 'Requires IFRS 16 compliance expertise',
-    // CMI Insights
+    // WMR Insights
     customerBenchmarkingSummary: 'Medium potential - Established relationship',
     additionalComments: 'Open to competitive proposals'
   },
@@ -219,7 +219,7 @@ const sampleCustomerData: CustomerData[] = [
     customerNeedTiming: 'Budget cycles, disposal programs',
     issuesFacedEarlier: 'Procurement process delays',
     otherKeyDetails: 'Requires government panel accreditation',
-    // CMI Insights
+    // WMR Insights
     customerBenchmarkingSummary: 'Low potential - Government procurement',
     additionalComments: 'Long procurement cycles'
   }
@@ -471,7 +471,7 @@ export default function CustomerIntelligenceDatabase(_props: CustomerIntelligenc
     </div>
   )
 
-  // Preposition 3 Table - All sections including Current Service Provider, Critical Pointers, and CMI Insights
+  // Preposition 3 Table - All sections including Current Service Provider, Critical Pointers, and WMR Insights
   const renderPreposition3Table = () => (
     <div className="overflow-x-auto">
       <table className="min-w-full border-collapse">
@@ -493,7 +493,7 @@ export default function CustomerIntelligenceDatabase(_props: CustomerIntelligenc
               Critical Pointers a Valuation Service Provider Must Know About Customers (To Win Business)
             </th>
             <th colSpan={2} className="bg-[#90EE90] border border-gray-300 px-3 py-2 text-center text-sm font-semibold text-black">
-              CMI Insights
+              WMR Insights
             </th>
           </tr>
           <tr className="bg-gray-100">
@@ -558,13 +558,13 @@ export default function CustomerIntelligenceDatabase(_props: CustomerIntelligenc
             <th className="bg-[#6495ED] border border-gray-300 px-3 py-2 text-left text-xs font-semibold text-black min-w-[150px]">
               <div>Other Key Details (If Any)</div>
             </th>
-            {/* CMI Insights Headers */}
+            {/* WMR Insights Headers */}
             <th className="bg-[#98FB98] border border-gray-300 px-3 py-2 text-left text-xs font-semibold text-black min-w-[150px]">
               <div>Customer Benchmarking Summary</div>
               <div className="font-normal text-[10px] text-gray-600">(Potential Customers)</div>
             </th>
             <th className="bg-[#98FB98] border border-gray-300 px-3 py-2 text-left text-xs font-semibold text-black min-w-[150px]">
-              <div>Additional Comments/ Notes By CMI team</div>
+              <div>Additional Comments/ Notes By WMR team</div>
             </th>
           </tr>
         </thead>
@@ -641,7 +641,7 @@ export default function CustomerIntelligenceDatabase(_props: CustomerIntelligenc
               <td className="border border-gray-300 px-3 py-2 text-sm text-black">{customer.customerNeedTiming}</td>
               <td className="border border-gray-300 px-3 py-2 text-sm text-black">{customer.issuesFacedEarlier}</td>
               <td className="border border-gray-300 px-3 py-2 text-sm text-black">{customer.otherKeyDetails}</td>
-              {/* CMI Insights Data */}
+              {/* WMR Insights Data */}
               <td className="border border-gray-300 px-3 py-2 text-sm text-black">{customer.customerBenchmarkingSummary}</td>
               <td className="border border-gray-300 px-3 py-2 text-sm text-black">{customer.additionalComments}</td>
             </tr>
