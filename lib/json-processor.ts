@@ -1209,7 +1209,7 @@ export async function processJsonDataAsync(
     
     // Build metadata
     const metadata: Metadata = {
-      market_name: 'Real Estate Valuation Service Market',
+      market_name: 'Commercial Real Estate Valuation Service Market',
       market_type: 'Market Analysis',
       industry: 'Chemicals & Materials',
       years: allYears,
