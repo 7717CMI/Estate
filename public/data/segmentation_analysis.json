@@ -1,0 +1,332 @@
+{
+  "Global": {
+    "By Property Type": {
+      "Retail": {
+        "Strip Centers": {},
+        "Shopping Malls": {},
+        "High-street / Standalone Retail": {}
+      },
+      "Industrial & Logistics": {
+        "Warehouses": {},
+        "Distribution Centers": {},
+        "Flex Industrial": {}
+      },
+      "Hospitality": {
+        "Hotels": {},
+        "Resorts": {}
+      }
+    },
+    "By Client Type": {},
+    "By Service Type": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Middle East & Africa": {
+        "GCC": {},
+        "South Africa": {},
+        "Rest of Middle East & Africa": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      }
+    }
+  },
+  "North America": {
+    "By Property Type": {
+      "Retail": {
+        "Strip Centers": {},
+        "Shopping Malls": {},
+        "High-street / Standalone Retail": {}
+      },
+      "Industrial & Logistics": {
+        "Warehouses": {},
+        "Distribution Centers": {},
+        "Flex Industrial": {}
+      },
+      "Hospitality": {
+        "Hotels": {},
+        "Resorts": {}
+      }
+    },
+    "By Client Type": {},
+    "By Service Type": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Middle East & Africa": {
+        "GCC": {},
+        "South Africa": {},
+        "Rest of Middle East & Africa": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      }
+    }
+  },
+  "Europe": {
+    "By Property Type": {
+      "Retail": {
+        "Strip Centers": {},
+        "Shopping Malls": {},
+        "High-street / Standalone Retail": {}
+      },
+      "Industrial & Logistics": {
+        "Warehouses": {},
+        "Distribution Centers": {},
+        "Flex Industrial": {}
+      },
+      "Hospitality": {
+        "Hotels": {},
+        "Resorts": {}
+      }
+    },
+    "By Client Type": {},
+    "By Service Type": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Middle East & Africa": {
+        "GCC": {},
+        "South Africa": {},
+        "Rest of Middle East & Africa": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      }
+    }
+  },
+  "Asia Pacific": {
+    "By Property Type": {
+      "Retail": {
+        "Strip Centers": {},
+        "Shopping Malls": {},
+        "High-street / Standalone Retail": {}
+      },
+      "Industrial & Logistics": {
+        "Warehouses": {},
+        "Distribution Centers": {},
+        "Flex Industrial": {}
+      },
+      "Hospitality": {
+        "Hotels": {},
+        "Resorts": {}
+      }
+    },
+    "By Client Type": {},
+    "By Service Type": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Middle East & Africa": {
+        "GCC": {},
+        "South Africa": {},
+        "Rest of Middle East & Africa": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      }
+    }
+  },
+  "Middle East & Africa": {
+    "By Property Type": {
+      "Retail": {
+        "Strip Centers": {},
+        "Shopping Malls": {},
+        "High-street / Standalone Retail": {}
+      },
+      "Industrial & Logistics": {
+        "Warehouses": {},
+        "Distribution Centers": {},
+        "Flex Industrial": {}
+      },
+      "Hospitality": {
+        "Hotels": {},
+        "Resorts": {}
+      }
+    },
+    "By Client Type": {},
+    "By Service Type": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Middle East & Africa": {
+        "GCC": {},
+        "South Africa": {},
+        "Rest of Middle East & Africa": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      }
+    }
+  },
+  "Latin America": {
+    "By Property Type": {
+      "Retail": {
+        "Strip Centers": {},
+        "Shopping Malls": {},
+        "High-street / Standalone Retail": {}
+      },
+      "Industrial & Logistics": {
+        "Warehouses": {},
+        "Distribution Centers": {},
+        "Flex Industrial": {}
+      },
+      "Hospitality": {
+        "Hotels": {},
+        "Resorts": {}
+      }
+    },
+    "By Client Type": {},
+    "By Service Type": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Middle East & Africa": {
+        "GCC": {},
+        "South Africa": {},
+        "Rest of Middle East & Africa": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      }
+    }
+  }
+}
